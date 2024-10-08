@@ -492,7 +492,6 @@ h4 {
   background-size:contain;
   z-index:1;
   margin-top:80px;
-  border: 1px solid;
 }
 .garden {
   margin-left:6%;
@@ -510,11 +509,11 @@ h4 {
   width:24.5%;
   height:500px;
   position:absolute;
-  /* border:1px solid rgb(89,88,88); */
-}
-/* .home2 {
   border:1px solid rgb(89,88,88);
-} */
+}
+.home2 {
+  border:1px solid rgb(89,88,88);
+}
 .home2 {
   margin-left:0%;
 }
